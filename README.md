@@ -1,2 +1,28 @@
 # Unemployment-Analysis-with-Python
-Unemployment data analysis using Python to compare trends before and after COVID-19 (2019 vs 2020). The project includes data cleaning, exploratory analysis, visualization, regional comparison, and statistical insights to measure the pandemic’s economic impact.
+This project analyzes unemployment data using Python to explore trends, regional differences, and changes between 2019 and 2020.
+
+🛠 Tools
+
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+🔎 Analysis Includes
+
+Data cleaning
+
+Exploratory Data Analysis (EDA)
+
+Data visualization
+
+Regional unemployment comparison
+
+2019 vs 2020 unemployment analysis
+
+📈 Key Insight
+
+The analysis shows regional disparities in unemployment and an increase in the average unemployment rate in 2020 compared to 2019.
